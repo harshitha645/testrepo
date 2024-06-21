@@ -7,4 +7,3 @@ plt.scatter(x, y)
 plt.show()
 this is my GitHub
 
-this is pyt
